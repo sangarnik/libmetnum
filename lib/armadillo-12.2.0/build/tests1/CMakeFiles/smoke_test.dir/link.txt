@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -rdynamic CMakeFiles/smoke_test.dir/smoke_test.cpp.o -o smoke_test  -Wl,-rpath,/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build ../libarmadillo.so.12.2.0 

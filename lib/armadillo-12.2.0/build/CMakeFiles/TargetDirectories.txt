@@ -1,0 +1,16 @@
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/CMakeFiles/armadillo.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/CMakeFiles/test.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/CMakeFiles/edit_cache.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/CMakeFiles/rebuild_cache.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/CMakeFiles/list_install_components.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/CMakeFiles/install.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/CMakeFiles/install/local.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/CMakeFiles/install/strip.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/tests1/CMakeFiles/smoke_test.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/tests1/CMakeFiles/test.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/tests1/CMakeFiles/edit_cache.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/tests1/CMakeFiles/rebuild_cache.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/tests1/CMakeFiles/list_install_components.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/tests1/CMakeFiles/install.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/tests1/CMakeFiles/install/local.dir
+/home/nikos/Documents/Tareitas/1er_semestre/analisis_numerico/practica/TP2_EquationSolver/lib/armadillo-12.2.0/build/tests1/CMakeFiles/install/strip.dir
